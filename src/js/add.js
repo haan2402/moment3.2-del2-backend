@@ -19,7 +19,7 @@
         formMessage.textContent = '';
     
         //gör variabler för att hämta in värden för fälten
-        const companyname = document.getElementById('company').value;
+        const company = document.getElementById('company').value;
         const jobtitle = document.getElementById('jobtitle').value;
         const startdate = document.getElementById('startdate').value;
         const enddate = document.getElementById('enddate').value;
